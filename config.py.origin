@@ -1,0 +1,11 @@
+oracle = dict (
+        username = '',
+        password = '',
+        url = 'XXX.XXX.XXX.XXX/SERVICE_NAME'
+        )
+access = dict (
+        username = '',
+        password = '',
+        file_location = 'c:/Users/alexp/blablabla.mdb'
+        )
+
