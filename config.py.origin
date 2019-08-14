@@ -8,4 +8,5 @@ access = dict (
         password = '',
         file_location = 'c:/Users/alexp/blablabla.mdb'
         )
+table_list = ['ACCESS_TABLE_NAME']
 

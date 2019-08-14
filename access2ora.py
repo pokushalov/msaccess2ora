@@ -10,8 +10,8 @@ import config
 import argparse
 #################################################################################################################################
 #List of names of Access tables to process from file
-#table_list = ['Modules', 'Options', 'Parameters', 'Parameters Extra', 'Positions', 'Sections', 'Sections by Stages']
-table_list = ['Sections by Stages','Parameters Extra']
+table_list = config.table_list
+
 #################################################################################################################################
 def logger_setup(logdir):
 
