@@ -16,7 +16,6 @@ table_list = config.table_list
 
 
 def logger_setup(logdir):
-
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
 
